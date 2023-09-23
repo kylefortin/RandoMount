@@ -1,0 +1,13 @@
+## Title: RandoMount
+## Notes: Addon to manage random mount summons with smart location filters.
+## Version: 1.0.0
+## Author: |cff027dbfKopernikus-Windseeker|r
+## Interface: 50129
+## SavedVariables: WarlockUtilitiesOptionsDB
+## OptionalDeps:  Ace3
+
+#@no-lib-strip@
+Embeds.xml
+#@end-no-lib-strip@
+
+RandoMount.lua
