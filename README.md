@@ -1,5 +1,7 @@
 # RandoMount
 
+*This addon is no longer being actively maintained.*
+
 *Current version is : `1.0.0`*  
 
 ## Random mounts made simple.  
